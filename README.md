@@ -1,10 +1,10 @@
-# 🔍 Web Application Breach Forensic Investigation
+#  Web Application Breach Forensic Investigation
 
 This repository contains a forensic investigation of an unauthorized admin login on the OWASP Juice Shop web application deployed on Kali Linux via Docker. The attacker gained access without exploiting a technical vulnerability, instead leveraging default administrative credentials—an example of **OWASP Top 10 A05: Security Misconfiguration**.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 | Category | Details |
 |---------|---------|
@@ -17,7 +17,7 @@ This repository contains a forensic investigation of an unauthorized admin login
 
 ---
 
-## 🕵️‍♂️ Investigation Objectives
+##  Investigation Objectives
 
 - Collect and analyze application logs  
 - Identify evidence of unauthorized access  
@@ -27,7 +27,7 @@ This repository contains a forensic investigation of an unauthorized admin login
 
 ---
 
-## 🧰 Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -39,7 +39,7 @@ This repository contains a forensic investigation of an unauthorized admin login
 
 ---
 
-## ⚠️ Impact Assessment
+##  Impact Assessment
 
 - Full administrative access was obtained by an unauthorized user  
 - High risk of data exposure, privilege abuse, or system manipulation  
@@ -47,7 +47,7 @@ This repository contains a forensic investigation of an unauthorized admin login
 
 ---
 
-## 🛡️ Recommendations
+##  Recommendations
 
 | Recommendation | Benefit |
 |---------------|---------|
@@ -59,7 +59,7 @@ This repository contains a forensic investigation of an unauthorized admin login
 
 ---
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 - Digital Forensics & Log Analysis  
 - Web Application Security  
@@ -70,7 +70,7 @@ This repository contains a forensic investigation of an unauthorized admin login
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The incident occurred due to a preventable configuration oversight rather than a sophisticated exploit. Securing authentication mechanisms and removing default credentials would have completely mitigated this breach.
 
